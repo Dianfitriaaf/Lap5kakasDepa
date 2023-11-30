@@ -45,7 +45,7 @@ input[type=submit]{
 /* Layout */
 /* Mengatur desain header */
 header{
-    background: #ADD8E6;
+    background: #4682B4;
     color: #fff;
     padding: 15px 20px;
     font-size: 20px;
@@ -96,7 +96,7 @@ footer {
 }
 /* Mengganti background menu ketika ditunjuk mouse */
 .menu a:hover{
-    background: #ADD8E6;
+    background: #4682B4;
 }
 /* Tabel */
 /* Mengatur desain judul halaman dengan border di bawah */
@@ -132,7 +132,7 @@ footer {
     padding: 10px 15px;
     font-size: 12px; }
 .tombol.hapus{
-    background: #fc4c4c;
+    background: #a40707;
 }
 /* Halaman Form */
 /* Mengatur form-group agar tidak terpengaruh float */
